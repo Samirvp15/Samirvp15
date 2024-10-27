@@ -1,14 +1,9 @@
 ![](https://i.ibb.co/VY7Py6H/1701664870509.jpg)
 # Hola Bienvenido, 😁 soy Samir Vergara
-### Ingeniero de Software y Desarrollador web 🔥
-[![Linkedin](https://img.shields.io/badge/-Sergio%20Mercado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274/)](https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274/) [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fdraquioportfolio.vercel.app%2F&up_message=Portfolio&up_color=%23472562)](https://draquioportfolio.vercel.app/) ![](https://komarev.com/ghpvc/?username=draquio&color=blueviolet)
+### Ingeniero de Software y Desarrollador Web Backend🔥
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 <hr>
-
-
-
-
 
 
 ### 📕 Un poco sobre mi:
@@ -54,9 +49,9 @@
 
 ### Contáctame
 
-- [Linkedin](https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274)
-- [Portfolio](https://draquioportfolio.vercel.app)
-- [draquio@gmail.com](mailto:draquio@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/samir-alexander-vergara-pastor-590321317/)
+- [Portfolio]()
+- [draquio@gmail.com]()
 <!---
 Samirvp15/Samirvp15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
