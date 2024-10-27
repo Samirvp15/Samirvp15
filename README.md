@@ -1,4 +1,4 @@
-![](https://i.ibb.co/JR8HQFp/BALLOONS3.png)
+![]()
 # Hola Bienvenido, 😁 soy Samir Vergara
 ### Ingeniero de Software y Desarrollador Web Backend🔥
 
