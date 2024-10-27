@@ -51,7 +51,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/samir-alexander-vergara-pastor-590321317/)
 - [Portfolio]()
-- [draquio@gmail.com]()
+- []()
 <!---
 Samirvp15/Samirvp15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
