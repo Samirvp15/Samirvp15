@@ -1,28 +1,28 @@
 ![]()
 # Hola Bienvenido, 😁 soy Samir Vergara
-### Ingeniero de Software y Desarrollador Web Backend🔥
+### Ingeniero de Software y Desarrollador Web🔥
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 <hr>
 
 
 ### 📕 Un poco sobre mi:
-- 👨‍💻 Soy ingeniero de software
+- 👨‍💻 Soy estudiante de ingenieria de software
 - 📙 Nivel de inglés B2.
-- 🛠️ 1 año de experiencia como desarrollador backend
-- ⭐️ Aplicando diversas tecnologias como Nodejs, Java, PHP,
-- Javascript, React, MySql, SQLServer, MongoDB, Postgresql
+- 🛠️ 1 año de experiencia como desarrollador web fullstack
+- ⭐️ Aplicando diversas tecnologias como Nodejs, Java, PHP, Laravel
+- Javascript, React, Nextjs, MySql, SQLServer, MongoDB, Postgresql
 
 <br/><br/>
 
 ### 🔧 Tecnologías que manejo
 #### ⭐️ Frontend:
 <p>
-<img src="https://draquioportfolio.vercel.app/tecnologies/html.svg" alt="html" width="40" height=40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/css.svg" alt="css" width="40" height=40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/javascript.svg" alt="javascript" width="40" height=40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/react.svg" alt="ReactJS" width="40" height=40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/typescript.svg" alt="Typescript" width=40" height=40"/>
+<img src="https://draquioportfolio.vercel.app/tecnologies/html.svg" alt="html" width="40" height="40"/>
+<img src="https://draquioportfolio.vercel.app/tecnologies/css.svg" alt="css" width="40" height="40"/>
+<img src="https://draquioportfolio.vercel.app/tecnologies/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://draquioportfolio.vercel.app/tecnologies/react.svg" alt="ReactJS" width="40" height="40"/>
+<img src="https://draquioportfolio.vercel.app/tecnologies/typescript.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://draquioportfolio.vercel.app/tecnologies/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://draquioportfolio.vercel.app/tecnologies/tailwind.svg" alt="Tailwind" width="40" height="40"/>
 </p>
