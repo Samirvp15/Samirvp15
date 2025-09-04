@@ -1,6 +1,6 @@
 ![]()
 # Hola Bienvenido, 😁 soy Samir Vergara
-### Ingeniero de Software y Desarrollador Web🔥
+### Ingeniero de Software y Desarrollador de Software🔥
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 <hr>
