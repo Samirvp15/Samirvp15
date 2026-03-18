@@ -9,7 +9,7 @@
 ### 📕 Un poco sobre mi:
 - 👨‍💻 Soy estudiante de ingenieria de software
 - 📙 Nivel de inglés intermedio.
-- 🛠️ 1 año de experiencia como desarrollador web fullstack
+- 🛠️ 2 año de experiencia como desarrollador web fullstack
 - ⭐️ Aplicando diversas tecnologias como Nodejs, Java, PHP, Laravel
 - Javascript, React, Nextjs, MySql, SQLServer, MongoDB, Postgresql
 
