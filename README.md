@@ -25,9 +25,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" alt="Hostinger" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="Wordpress" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/shopify.png" alt="Shopify" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/hostinger.png" alt="Hostinger" width="40" height="40"/>
 </p>
 
 #### 🔥 Backend:
