@@ -13,7 +13,7 @@
 - ⭐️ Aplicando diversas tecnologias como Nodejs, Java, PHP, Laravel
 - Javascript, React, Nextjs, MySql, SQLServer, MongoDB, Postgresql
 
-<br/><br/>
+<br/>
 
 ### 🔧 Tecnologías que manejo
 #### ⭐️ Frontend:
@@ -39,17 +39,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
 </p>
 
-#### 🔨 Testing
-<p>
-<img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-</p>
-
 #### 🔒 Base de datos
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+#### 🔨 Testing
+<p>
+<img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
 </p>
 
 ### Contáctame
