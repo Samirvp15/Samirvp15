@@ -18,34 +18,36 @@
 ### 🔧 Tecnologías que manejo
 #### ⭐️ Frontend:
 <p>
-<img src="https://draquioportfolio.vercel.app/tecnologies/html.svg" alt="html" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/css.svg" alt="css" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/react.svg" alt="ReactJS" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/typescript.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/tailwind.svg" alt="Tailwind" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" alt="Hostinger" width="40" height="40"/>
 </p>
 
 #### 🔥 Backend:
 <p>
-<img src="https://draquioportfolio.vercel.app/tecnologies/php.svg" alt="PHP" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/node-js.svg" alt="NodeJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 </p>
 
 #### 🔨 Testing
 <p>
-<img src="https://draquioportfolio.vercel.app/tecnologies/react-testing-library.svg" alt="React Testing Library" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/jest.svg" alt="Jest" width="40" height="40"/>
+<img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
 </p>
 
 #### 🔒 Base de datos
 <p>
-<img src="https://draquioportfolio.vercel.app/tecnologies/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/mysql.svg" alt="MysQL" width="40" height="40"/>
-<img src="https://draquioportfolio.vercel.app/tecnologies/sql-server.svg" alt="SQLServer" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="40" height="40"/>
 </p>
-<hr>
 
 ### Contáctame
 
